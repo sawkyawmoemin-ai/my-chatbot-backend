@@ -1,6 +1,5 @@
 fastapi
 uvicorn
 pydantic
+scikit-learn
 chromadb
-sentence-transformers
-torch
