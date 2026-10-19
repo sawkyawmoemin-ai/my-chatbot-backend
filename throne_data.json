@@ -1,0 +1,799 @@
+{
+  "throne_categories": [
+    {
+      "id": "Royal Lion Throne",
+      "category": "throne",
+      "name": {
+        "mm": "သီဟာသနပလ္လင်",
+        "en": "Royal Lion Throne (Thi-ha-tha-na Palin)",
+        "th": "พระราชบัลลังก์สีหาสนะ (Thi-ha-tha-na Palin)"
+      },
+      "summary": {
+        "mm": "သီဟာသနပလ္လင်သည် ကုန်းဘောင်ခေတ် မြန်မာဘုရင်မင်းတုန်းမင်းနှင့် သီပေါမင်းတို့ အသုံးပြုခဲ့သော ရာဇပလ္လင်ဖြစ်ပြီး၊ ပလ္လင်အောက်ဖက်ရှိ စမုံပေါက်များတွင် ခြင်္သေ့ရုပ် ၁၀၈ ကောင် ထည့်သွင်းထားရှိခြင်းကြောင့် သီဟာသနပလ္လင်ဟု ခေါ်တွင်ခြင်း ဖြစ်ပါသည်။ ရဲရင့်ခြင်း၊ တက်ကြွခြင်းနှင့် ရန်သူကို အောင်နိုင်ခြင်းတို့ကို ဖော်ဆောင်သည်။",
+        "en": "The Royal Lion Throne is the royal throne used by the Konbaung Dynasty Myanmar Kings, Mindon Min and Thibaw Min. It is named the 'Thihathana' Throne because it features 108 lion figures embedded in the small ventilation holes (samon-pauk) beneath the throne, which symbolize bravery, vitality, and the conquering of enemies.",
+        "th": "พระราชบัลลังก์สีหาสนะ เป็นพระราชบัลลังก์ประจำองค์พระมหากษัตริย์พม่าในยุคราชวงศ์โก้นบอง ซึ่งใช้โดยพระเจ้ามินดงและพระเจ้าธีบอ โดยเหตุที่เรียกว่า 'สีหาสนะ' (บัลลังก์สิงห์) เนื่องจากบริเวณช่องลมเล็กๆ (สมงเปาก์) ใต้พระแท่นบัลลังก์ มีการประดิษฐานรูปปั้นสิงห์จำนวน 108 ตัว ซึ่งเป็นสัญลักษณ์สื่อถึงความกล้าหาญ ความกระตือรือร้น และการเอาชนะศัตรู"
+      },
+      "detailed_info": {
+        "mm": [
+          "ပလ္လင်သမိုင်း၊ အရွယ်အစား၊ တည်ဆောက်ရာတွင်အသုံးပြုခဲ့သောအရာ",
+          "ပလ္လင်သမိုင်း",
+          "(က) ပလ္လင် (၈) မျိုး (အရေအတွက်အားဖြင့် ၉ ခု)",
+          "၁။ သီဟာသနပလ္လင် (၂ ခု ရှိခဲ့သည်)",
+          "၂။ ဘမရာသနပလ္လင်",
+          "၃။ ပဒုမ္မာသနပလ္လင်",
+          "၄။ ဟံသာသနပလ္လင်",
+          "၅။ ဂဇာသနပလ္လင်",
+          "၆။ သင်္ခါသနပလ္လင်",
+          "၇။ မိဂါသနပလ္လင်",
+          "၈။ မယုရာသနပလ္လင်",
+          "(ခ) ရွှေနန်း (၉) ဆောင်",
+          "၁။ မြေနန်းတော် (မြေနန်းပြဿဒ်)",
+          "၂။ လွှတ်တော်",
+          "၃။ မှန်နန်းဆောင်",
+          "၄။ အနောက်ဇေတဝန်ဆောင်",
+          "၅။ အရှေ့ဇေတဝန်ဆောင်",
+          "၆။ ဗြဲတိုက်ဆောင်",
+          "၇။ လေသာဆောင်",
+          "၈။ တောင်စမုတ်ဆောင်",
+          "၉။ မြောက်စမုတ်ဆောင်",
+          "မူလက သီဟာသနပလ္လင် နှစ်ခုရှိခဲ့ပါသည် (တစ်ခုကို မြေနန်းပြဿဒ်တွင်ထားရှိပြီး၊ တစ်ခုကို လွှတ်တော်တွင် ထားရှိသည်)။ မြေနန်းပြဿဒ်ရှိ ပလ္လင်မှာ ဒုတိယကမ္ဘာစစ်အတွင်း မီးလောင်ပျက်စီးခဲ့ပြီး၊ လွှတ်တော်တွင် ထားရှိခဲ့သော ပလ္လင်တစ်ခုသာလျှင် ယခုအခါ အမျိုးသားပြတိုက် (ရန်ကုန်) တွင် တစ်ခုတည်းသော မူရင်းပလ္လင်အဖြစ် အကောင်းအတိုင်း ကျန်ရစ်ခဲ့ပါသည်။",
+          "အရွယ်အစား",
+          "ပုံပါစာသား (သမိုင်းပညာရှင် ဒေါက်တာ သန်းထွန်း၏ 'မြန်မာ့ထီးမူနန်းရာစာအုပ်' တွင် ရေးသားခဲ့မှု) အရ သီဟာသနပလ္လင်၏ အတိုင်းအတာနှင့် အရွယ်အစား အသေးစိတ်မှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်-",
+          "1. ပလ္လင်ခြေမှ ပလ္လင်ကြမ်းခင်းအထိ အမြင့်: ၅ ပေ ၁၁ လက်မ",
+          "2. ထိပ်ဖျားအထိ စုစုပေါင်းအမြင့်: ၃၄ ပေ ၆ လက်မ",
+          "3. ပလ္လင်တံခါးအမြင့်: ၇ ပေ ၅ လက်မ",
+          "4. ကြေးကွေးအကျယ်/အမြင့်: ၃ ပေ ၁၀ လက်မ",
+          "5. တောရဏအမြင့်: ၈ ပေ ၂ လက်မ (စာတမ်းအချို့တွင် ၈ ပေ ၂ ၂/၅ လက်မဟု ဖော်ပြထားသည်)",
+          "6. မှန်ကင်းတိုင်အမြင့်: ၆ ပေ ၈ လက်မ",
+          "7. စိန်ပျံတိုင်အမြင့်: ၂ ပေ ၇ လက်မ",
+          "8. ပလ္လင်အောက်ခြေ (ခြင်္သေ့ရုပ်သွင်းများပါ အနံ/အလျား): ၁၂ ပေ ၁ လက်မ",
+          "9. ပလ္လင်ခါးသိမ်ကြာတန်း အလျား: ၈ ပေ ၁၀ လက်မ",
+          "10. ဥကင်တော်မုခ်ဝထုပ်တန်း အကျယ်: ၄ ပေ ၅ လက်မ",
+          "တည်ဆောက်ရာတွင်အသုံးပြုခဲ့သောအရာ",
+          "ဒီသီဟာသနပလ္လင်ကို ယမနေခေါ် သစ်မာသားဖြင့် ပြုလုပ်ပြီး ပလ္လင်တစ်ခုလုံးကို ရွှေပိန်းချထားပါသည်။",
+          "ထပ်မံလေ့လာလိုပါက …",
+          "၁။ အမျိုးသားပြတိုက်လမ်းညွှန်",
+          "၂။ ဒေါက်တာရီရီ၏ 'The Thrones of The Burmese Kings' (Journal of The Burma Research Society)",
+          "၃။ သတင်းထောက်အုန်းဖေ၏ 'သီဟာသနပလ္လင်' (မိုးဂျာနယ်၊ ဇွန်လ၊ ၁၉၉၅)",
+          "၄။ ဦးတိုက်စိုး၏ 'သီဟာသနပလ္လင်' (ပန်မဂ္ဂဇင်း)",
+          "၅။ မှန်နန်းရာဇဝင်တော်ကြီး",
+          "၆။ ဇေယသင်္ခယာ၊ 'ရွှေဘုံနိဒါန်း' (ရန်ကုန်၊ ဟံသာဝတီပုံနှိပ်တိုက်၊ ဒု-၁၉၆၀)",
+          "၇။ ဦးမင်းနိုင်၊ 'သီဟာသနပလ္လင်နှင့် သိမှတ်ဖွယ်ရာများ' (ဒေါင်းမြန်မာဂျာနယ်၊ ၁-၂-၈၈၊ စာ-၁၅၊ ၁၇)",
+          "၈။ ခင်မောင်ဖြူ (ယဉ်ကျေးမှု)၊ 'သီဟာသန ရွှေပလ္လင်' (ငွေတာရီ မဂ္ဂဇင်း၊ ၁၉၈၂ ခု၊ နိုဝင်ဘာလ၊ စာ-၅၅ ၊ ၅၉)",
+          "၉။ ဒေါ်မီမီသက်နွယ် (ပြတိုက်မှူး-ငြိမ်း)၊ အမျိုးသားပြတိုက် (ရန်ကုန်) ၏ မှတ်စုများ",
+          "၁၀။ မောင်သာ (ရှေးဟောင်းသုတေသန) ၏ ဆောင်းပါးများနှင့် မှတ်တမ်းများ",
+          "၁၁။ သမိုင်းပညာရှင် ဒေါက်တာသန်းထွန်း၏ 'မြန်မာ့ထီးမူနန်းရာ' စာအုပ်"
+        ],
+        "en": [
+          "Throne History, Dimensions, and Materials Used",
+          "Throne History",
+          "(A) The 8 Types of Thrones (Totaling 9 Thrones in number):",
+          "1. Thihathana Throne (There were 2 of these)",
+          "2. Bamarathana Throne",
+          "3. Padumathana Throne",
+          "4. Hanthathana Throne",
+          "5. Gazathana Throne",
+          "6. Thinkhathana Throne",
+          "7. Migathana Throne",
+          "8. Mayurathana Throne",
+          "(B) The 9 Golden Palaces:",
+          "1. Mye-nans-daw (Mye-nan Pyathat)",
+          "2. Hluttaw (Council of Ministers / Parliament hall)",
+          "3. Hman-nan-saung (Glass Palace)",
+          "4. West Zetawun Saung",
+          "5. East Zetawun Saung",
+          "6. Mye-taik Saung (Royal Treasury building)",
+          "7. Lay-tha Saung (Pleasure pavilion)",
+          "8. South Samoke Saung",
+          "9. North Samoke Saung",
+          "Originally, there were two Thihathana Thrones (one was placed in the Mye-nan Pyathat, and the other was kept in the Hluttaw). The throne in the Mye-nan Pyathat was destroyed by fire during World War II, leaving only the one from the Hluttaw preserved intact to this day as the sole surviving original throne at the National Museum (Yangon).",
+          "Dimensions",
+          "According to the figures provided in the book 'Myanmar Hti Mu Nan Ya' by historian Dr. Than Tun, the detailed measurements and dimensions of the Thihathana Throne are as follows:",
+          "1. Height from the base of the throne to the throne floor: 5 feet 11 inches",
+          "2. Total height to the very top: 34 feet 6 inches",
+          "3. Throne doorway height: 7 feet 5 inches",
+          "4. Bronze curve width/height: 3 feet 10 inches",
+          "5. Torana (decorative arch) height: 8 feet 2 inches (some documents state 8 feet 2 2/5 inches)",
+          "6. Hmanking-taing (spire pillar) height: 6 feet 8 inches",
+          "7. Sein-pyan-taing (top pinnacle pillar) height: 2 feet 7 inches",
+          "8. Throne base (width/length including the embedded lion figures): 12 feet 1 inch",
+          "9. Throne waist-slim lotus band length: 8 feet 10 inches",
+          "10. U-kin-daw (gable roof porch) lintel width: 4 feet 5 inches",
+          "Materials Used in Construction",
+          "The Thihathana Throne was constructed using a hardwood timber known as Yamanay (Gmelina arborea), and the entire throne is gilded in gold leaf.",
+          "Further Reading References:",
+          "1. National Museum Guidebook",
+          "2. Dr. Yi Yi, 'The Thrones of The Burmese Kings' (Journal of The Burma Research Society)",
+          "3. News Reporter Aung Pe, 'The Thihathana Throne' (Moe Journal, June 1995)",
+          "4. U Taik Soe, 'The Thihathana Throne' (Pan Magazine)",
+          "5. The Great Glass Palace Chronicle (Hmannan Yazawin Dawgyi)",
+          "6. Zeya Thinkhaya, 'Shwe Bon Nidan' (Yangon, Hanthawaddy Press, 2nd ed., 1960)",
+          "7. U Min Naing, 'The Thihathana Throne and Notable Facts' (Daung Myanmar Journal, 1-2-88, pp. 15, 17)",
+          "8. Khin Maung Phyu (Culture), 'The Thihathana Golden Throne' (Ngwe Tar Yi Magazine, November 1982, pp. 55, 59)",
+          "9. Daw Mi Mi Thet Nwe (Retired Curator), Notes of the National Museum (Yangon)",
+          "10. Maung Thar (Archaeology), Articles and Records",
+          "11. Historian Dr. Than Tun, 'Myanmar Hti Mu Nan Ya' book 'မြန်မာ့ထီးမူနန်းရာ'"
+        ],
+        "th": [
+          "ประวัติศาสตร์ ขนาด และวัสดุที่ใช้ในการสร้างพระราชบัลลังก์",
+          "ประวัติศาสตร์พระราชบัลลังก์",
+          "(ก) พระราชบัลลังก์ 8 ประเภท (มีจำนวนรวมทั้งสิ้น 9 องค์):",
+          "1. บัลลังก์สีหาสนะ (Thihathana) มีจำนวน 2 องค์",
+          "2. บัลลังก์ภมราสนะ (Bamarathana)",
+          "3. บัลลังก์ปทุมาสนะ (Padumathana)",
+          "4. บัลลังก์หงสาสนะ (Hanthathana)",
+          "5. บัลลังก์คชาสนะ (Gazathana)",
+          "6. บัลลังก์สังขาสนะ (Thinkhathana)",
+          "7. บัลลังก์มิคาสนะ (Migathana)",
+          "8. บัลลังก์มยุราสนะ (Mayurathana)",
+          "(ข) พระราชวังทองคำ 9 ท้องพระโรง/พระที่นั่ง:",
+          "1. ท้องพระโรงเมนัน (Mye-nan Pyathat)",
+          "2. สภาลุตตอ (Hluttaw สภาพฤกษ์/สภาบริหารราชการ)",
+          "3. พระที่นั่งหมันนัน (Hman-nan-saung พระที่นั่งแก้ว)",
+          "4. พระที่นั่งเชตวันทิศตะวันตก (West Zetawun Saung)",
+          "5. พระที่นั่งเชตวันทิศตะวันออก (East Zetawun Saung)",
+          "6. พระที่นั่งเบรตอ (Mye-taik Saung / พระที่นั่งคลังหลวง)",
+          "7. พระที่นั่งเลทา (Lay-tha Saung พระที่นั่งศาลาลม)",
+          "8. พระที่นั่งสามุขทิศใต้ (South Samoke Saung)",
+          "9. พระที่นั่งสามุขทิศเหนือ (North Samoke Saung)",
+          "ดั้งเดิมนั้นมีพระราชบัลลังก์สีหาสนะอยู่ 2 องค์ (องค์หนึ่งประดิษฐานไว้ ณ ท้องพระโรงเมนัน และอีกองค์หนึ่งไว้ที่สภาลุตตอ) พระราชบัลลังก์องค์ที่อยู่ในท้องพระโรงเมนันถูกไฟไหม้สูญหายไปในช่วงสงครามโลกครั้งที่ 2 จึงเหลือเพียงพระราชบัลลังก์จากสภาลุตตอเพียงองค์เดียวเท่านั้น ที่ยังคงสมบูรณ์และจัดแสดงเป็นบัลลังก์องค์ดั้งเดิมที่เหลืออยู่ ณ พิพิธภัณฑสถานแห่งชาติ (ย่างกุ้ง) ในปัจจุบัน",
+          "ขนาดและสัดส่วน",
+          "อ้างอิงจากข้อมูลในหนังสือ 'พม่าตีมูนันยา' (ขนบธรรมเนียมราชสำนักพม่า) โดย ดร. ธัน ทุน (Dr. Than Tun) นักประวัติศาสตร์ รายละเอียดสัดส่วนขนาดของพระราชบัลลังก์สีหาสนะมีดังนี้:",
+          "1. ความสูงจากฐานถึงพื้นพระแท่นนั่ง: 5 ฟุต 11 นิ้ว",
+          "2. ความสูงรวมทั้งหมดถึงยอดสูงสุด: 34 ฟุต 6 นิ้ว",
+          "3. ความสูงของประตูบัลลังก์: 7 ฟุต 5 นิ้ว",
+          "4. ความกว้าง/ความสูงของส่วนโค้งทองเหลือง: 3 ฟุต 10 นิ้ว",
+          "5. ความสูงของซุ้มประตู (โตรณะ/ตอรณะ): 8 ฟุต 2 นิ้ว (บางเอกสารระบุ 8 ฟุต 2 2/5 นิ้ว)",
+          "6. ความสูงของเสาหมันกิ๊ง (หมั่นกิ๊นต่าย - เสายอดซุ้ม): 6 ฟุต 8 นิ้ว",
+          "7. ความสูงของเสาเซนบยาน (เสายอดแหลมชั้นบนสุด): 2 ฟุต 7 นิ้ว",
+          "8. ฐานพระแท่นบัลลังก์ (ความกว้าง/ความยาว รวมส่วนช่องสิงห์): 12 ฟุต 1 นิ้ว",
+          "9. ความยาวของบัวแอว/ขอบบัวส่วนคอดบัลลังก์: 8 ฟุต 10 นิ้ว",
+          "10. ความกว้างของทับหลังซุ้มมุข (อุกิ่งดอ): 4 ฟุต 5 นิ้ว",
+          "วัสดุที่ใช้ในการสร้าง",
+          "พระราชบัลลังก์สีหาสนะนี้สร้างขึ้นจากไม้เนื้อแข็งที่เรียกว่า ไม้ยามาเน (Yamane / ไม้สักตระกูล Gmelina arborea) และทรงปิดทองคำแท้ส่องประกายทั้งองค์",
+          "เอกสารและหนังสืออ้างอิงสำหรับการศึกษาเพิ่มเติม:",
+          "1. คู่มือนำชมพิพิธภัณฑสถานแห่งชาติ",
+          "2. ดร. ยี ยี (Dr. Yi Yi), 'The Thrones of The Burmese Kings' (วารสารสมาคมวิจัยแห่งพม่า - Journal of The Burma Research Society)",
+          "3. อ่อง เพ (นักข่าว), 'Thihathana Throne' (นิตยสารโม, มิถุนายน 1995)",
+          "4. อู ไต๊ โซ, 'Thihathana Throne' (นิตยสารปาน)",
+          "5. มหาราชวงศ์ฉบับแก้วมณี (มหาราชวงศ์หมันนัน - Hmannan Yazawin Dawgyi)",
+          "6. เซยะ ทิงคะยา, 'ชเวโบ นิทาน' (ย่างกุ้ง, สำนักพิมพ์ฮันทาวดี, พิมพ์ครั้งที่ 2 ปี 1960)",
+          "7. อู มิน ไนน์, 'Thihathana Throne and Notable Facts' (วารสารตองพม่า, 1-2-88, หน้า 15, 17)",
+          "8. ขิ่น มอง พยู (ฝ่ายวัฒนธรรม), 'Thihathana Golden Throne' (นิตยสารงเวตารี, พฤศจิกายน 1982, หน้า 55, 59)",
+          "9. ดอ มี มี เธ็ต นเว (อดีตภัณฑารักษ์), บันทึกของพิพิธภัณฑสถานแห่งชาติ (ย่างกุ้ง)",
+          "10. มอง ธา (โบราณคดี), บทความและบทบันทึกต่างๆ",
+          "11. ดร. ธัน ทุน (นักประวัติศาสตร์), หนังสือ 'พม่าตีมูนันยา' (Myanmar Hti Mu Nan Ya) 'မြန်မာ့ထီးမူနန်းရာ'"
+        ]
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other1",
+      "name": {
+        "mm": "1. လောကနတ်",
+        "en": "1. Lokanat",
+        "th": "1. โลกนารถ (Lokanat)"
+      },
+      "summary": {
+        "mm": "ရန်မီးငြိမ်းစေသည့်သဘောနှင့် ငြိမ်းချမ်းရေးအထိမ်းအမှတ်ဖြစ်ပြီး ဆင်ပျံ၊ ခြင်္သေ့ပျံတို့၏ ရန်ကို ငြိမ်းစေခဲ့သည့် ဒဏ္ဍာရီကို ကိုယ်စားပြုသည်။ …",
+        "en": "It symbolizes the calming of fires of conflict and serves as an emblem of peace, representing the legend where the Lokanat pacified the hostility between the flying elephant and the flying lion. ...",
+        "th": "เป็นสัญลักษณ์แห่งการดับไฟสงครามและความขัดแย้ง และเป็นเครื่องหมายแห่งสันติภาพ ซึ่งแทนตำนานที่องค์โลกนารถได้ทรงระงับความขัดแย้งระหว่างช้างบินและสิงห์บิน..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်ရဲ့အရှေ့ဝဲယာထောင့်နှစ်ထောင့်မှာ ငြိမ်းချမ်းရေးအထိမ်းအမှတ်ဖြစ်တဲ့ လောကနတ်အရုပ်တစ်ရုပ်စီ ရှိပြီးတော့ ၎င်းတို့နဲ့တွဲလျက် ဆင်ပျံပုံနဲ့ ခြင်္သေ့ပျံပုံ ရုပ်ထုများကိုလည်း မြင်တွေ့ရပါတယ်။ ဒဏ္ဍာရီပုံပြင်အရ တစ်နေ့မှာ ဆင်ပျံနှင့် ခြင်္သေ့ပျံတို့ဟာ ကောင်းကင်ထက်မှာ အစာဖြစ်တဲ့ တိမ်ညွန့်များကို လုစားရင်းနဲ့ ခိုက်ရန်ဖြစ်ပွားကြပါတယ်။ အဲ့ဒီအဖြစ်အပျက်ကို လောကနတ်က တွေ့မြင်တဲ့အခါမှာ သူ့ရဲ့ခြေထောက်က စည်းစုပ်များကို တီးရင်း လက်မှာ သပြေရွက်ကလေးများ ကိုင်ဆောင်ကာ သီဆိုကခုန်ပါတယ်။ လောကနတ်ရဲ့သီဆိုကခုန်ပျော်မြူးဟန်ကို ဆင်ပျံနဲ့ ခြင်္သေ့ပျံတို့ မြင်ရကြားရတဲ့အခါမှာ ကြည်နူးနှစ်သက်ကြပြီးတော့ ရန်ပြေငြိမ်းသွားကြပါတယ်။ တေးဂီတရဲ့စွမ်းအားကြောင့် ရန်မာန်ပြေလျော့ကာ တိုင်းပြည်အေးချမ်းသာယာခြင်း အထိမ်းအမှတ်အနေနဲ့ သီဟာသနပလ္လင်ရဲ့ ဝဲယာမှာ လောကနတ်အရုပ်များကို ထားရှိခြင်းဖြစ်ကြောင်း မှတ်သားရပါသည်။",
+        "en": "At the two front left and right corners of the throne, there is a Lokanat figure representing peace, alongside sculptures of a flying elephant and a flying lion. According to the legend, the flying elephant and flying lion once quarreled in the sky while fighting over cloud-tips for food. Seeing this, the Lokanat played its cymbals with its feet while holding fresh myrtle leaves in its hands, singing and dancing joyfully. When the flying elephant and flying lion saw and heard the Lokanat's joyous performance, they felt delighted and their enmity ceased. It is recorded that Lokanat figures are placed on both sides of the Thihathana Throne to signify the easing of hostility through the power of music and the peace and prosperity of the nation.",
+        "th": "รายละเอียด: บริเวณมุมหน้าทั้งสองข้าง (ซ้ายและขวา) ของพระแท่นบัลลังก์ มีรูปปั้นโลกนารถซึ่งเป็นตัวแทนแห่งสันติภาพ ประดิษฐานคู่กับรูปปั้นช้างบินและสิงห์บิน ตามตำนานเล่าว่า วันหนึ่งช้างบินและสิงห์บินได้เกิดการทะเลาะวิวาทแย่งชิงยอดเมฆเพื่อเป็นอาหารอยู่บนท้องฟ้า เมื่อองค์โลกนารถได้เห็นเหตุการณ์ดังกล่าว จึงได้ขยับขยับฉิ่งที่เท้า พร้อมกับถือใบมะเม่า (ใบสลี/ใบชัยพฤกษ์) ไว้ในมือ แล้วขับร้องและเต้นรำด้วยความรื่นเริง เมื่อช้างบินและสิงห์บินได้เห็นและได้ยินการแสดงอันรื่นรมย์ขององค์โลกนารถ ทั้งสองก็เกิดความสบายใจ เบิกบานใจ จนความแค้นเคืองยุติต่างพ้นจากความเป็นศัตรูต่อกัน มีบันทึกไว้ว่าการประดิษฐานรูปปั้นโลกนารถไว้ทั้งสองข้างของพระราชบัลลังก์สีหาสนะ ก็เพื่อเป็นสัญลักษณ์สื่อถึงการขจัดความขัดแย้งด้วยพลังแห่งเสียงดนตรี และนำพาความสงบสุขรุ่งเรืองมาสู่อาณาจักร"
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other2",
+      "name": {
+        "mm": "2. ဆင်",
+        "en": "2. Elephant",
+        "th": "2. ช้าง (Elephant)"
+      },
+      "summary": {
+        "mm": "ခွန်အားကြီးခြင်း၊ ကျက်သရေရှိခြင်းနှင့် ဘုန်းအာနုဘော်ကြီးခြင်းကို ဖော်ဆောင်သည်။ …",
+        "en": "It represents great strength, grace, and royal majesty/power. ...",
+        "th": "สื่อถึงพละกำลังอันมหาศาล ความสง่างาม และพระบรมเดชานุภาพ/อำนาจแห่งพระมหากษัตริย์..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်ရဲ့အရှေ့ဝဲယာထောင့်နှစ်ထောင့်မှာ ငြိမ်းချမ်းရေးအထိမ်းအမှတ်ဖြစ်တဲ့ လောကနတ်အရုပ်တစ်ရုပ်စီ ရှိပြီးတော့ ၎င်းတို့နဲ့တွဲလျက် ဆင်ပျံပုံနဲ့ ခြင်္သေ့ပျံပုံ ရုပ်ထုများကိုလည်း မြင်တွေ့ရပါတယ်။ ဒဏ္ဍာရီပုံပြင်အရ တစ်နေ့မှာ ဆင်ပျံနှင့် ခြင်္သေ့ပျံတို့ဟာ ကောင်းကင်ထက်မှာ အစာဖြစ်တဲ့ တိမ်ညွန့်များကို လုစားရင်းနဲ့ ခိုက်ရန်ဖြစ်ပွားကြပါတယ်။ အဲ့ဒီအဖြစ်အပျက်ကို လောကနတ်က တွေ့မြင်တဲ့အခါမှာ သူ့ရဲ့ခြေထောက်က စည်းစုပ်များကို တီးရင်း လက်မှာ သပြေရွက်ကလေးများ ကိုင်ဆောင်ကာ သီဆိုကခုန်ပါတယ်။ လောကနတ်ရဲ့သီဆိုကခုန်ပျော်မြူးဟန်ကို ဆင်ပျံနဲ့ ခြင်္သေ့ပျံတို့ မြင်ရကြားရတဲ့အခါမှာ ကြည်နူးနှစ်သက်ကြပြီးတော့ ရန်ပြေငြိမ်းသွားကြပါတယ်။ တေးဂီတရဲ့စွမ်းအားကြောင့် ရန်မာန်ပြေလျော့ကာ တိုင်းပြည်အေးချမ်းသာယာခြင်း အထိမ်းအမှတ်အနေနဲ့ သီဟာသနပလ္လင်ရဲ့ ဝဲယာမှာ လောကနတ်အရုပ်များကို ထားရှိခြင်းဖြစ်ကြောင်း မှတ်သားရပါသည်။",
+        "en": "At the two front left and right corners of the throne, there is a Lokanat figure representing peace, alongside sculptures of a flying elephant and a flying lion. According to the legend, the flying elephant and flying lion once quarreled in the sky while fighting over cloud-tips for food. Seeing this, the Lokanat played its cymbals with its feet while holding fresh myrtle leaves in its hands, singing and dancing joyfully. When the flying elephant and flying lion saw and heard the Lokanat's joyous performance, they felt delighted and their enmity ceased. It is recorded that Lokanat figures are placed on both sides of the Thihathana Throne to signify the easing of hostility through the power of music and the peace and prosperity of the nation.",
+        "th": "รายละเอียด: บริเวณมุมหน้าทั้งสองข้าง (ซ้ายและขวา) ของพระแท่นบัลลังก์ มีรูปปั้นโลกนารถซึ่งเป็นตัวแทนแห่งสันติภาพ ประดิษฐานคู่กับรูปปั้นช้างบินและสิงห์บิน ตามตำนานเล่าว่า วันหนึ่งช้างบินและสิงห์บินได้เกิดการทะเลาะวิวาทแย่งชิงยอดเมฆเพื่อเป็นอาหารอยู่บนท้องฟ้า เมื่อองค์โลกนารถได้เห็นเหตุการณ์ดังกล่าว จึงได้ขยับขยับฉิ่งที่เท้า พร้อมกับถือใบมะเม่า (ใบสลี/ใบชัยพฤกษ์) ไว้ในมือ แล้วขับร้องและเต้นรำด้วยความรื่นเริง เมื่อช้างบินและสิงห์บินได้เห็นและได้ยินการแสดงอันรื่นรมย์ขององค์โลกนารถ ทั้งสองก็เกิดความสบายใจ เบิกบานใจ จนความแค้นเคืองยุติต่างพ้นจากความเป็นศัตรูต่อกัน"
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other3",
+      "name": {
+        "mm": "3. မြင်း",
+        "en": "3. Horse",
+        "th": "3. ม้า (Horse)"
+      },
+      "summary": {
+        "mm": "မင်းခမ်းတော်တွင် ပါဝင်သော တိရစ္ဆာန်သင်္ကေတ တစ်မျိုးဖြစ်သည်။ …",
+        "en": "It is one of the animal symbols included in the royal regalia. ...",
+        "th": "เป็นหนึ่งในสัญลักษณ์สัตว์มงคลที่รวมอยู่ในเครื่องราชกกุธภัณฑ์..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်ရဲ့အရှေ့ဝဲယာထောင့်နှစ်ထောင့်မှာ ငြိမ်းချမ်းရေးအထိမ်းအမှတ်ဖြစ်တဲ့ လောကနတ်အရုပ်တစ်ရုပ်စီ ရှိပြီးတော့ ၎င်းတို့နဲ့တွဲလျက် ဆင်ပျံပုံနဲ့ ခြင်္သေ့ပျံပုံ ရုပ်ထုများကိုလည်း မြင်တွေ့ရပါတယ်။ ဒဏ္ဍာရီပုံပြင်အရ တစ်နေ့မှာ ဆင်ပျံနှင့် ခြင်္သေ့ပျံတို့ဟာ ကောင်းကင်ထက်မှာ အစာဖြစ်တဲ့ တိမ်ညွန့်များကို လုစားရင်းနဲ့ ခိုက်ရန်ဖြစ်ပွားကြပါတယ်။ အဲ့ဒီအဖြစ်အပျက်ကို လောကနတ်က တွေ့မြင်တဲ့အခါမှာ သူ့ရဲ့ခြေထောက်က စည်းစုပ်များကို တီးရင်း လက်မှာ သပြေရွက်ကလေးများ ကိုင်ဆောင်ကာ သီဆိုကခုန်ပါတယ်။ လောကနတ်ရဲ့သီဆိုကခုန်ပျော်မြူးဟန်ကို ဆင်ပျံနဲ့ ခြင်္သေ့ပျံတို့ မြင်ရကြားရတဲ့အခါမှာ ကြည်နူးနှစ်သက်ကြပြီးတော့ ရန်ပြေငြိမ်းသွားကြပါတယ်။ တေးဂီတရဲ့စွမ်းအားကြောင့် ရန်မာန်ပြေလျော့ကာ တိုင်းပြည်အေးချမ်းသာယာခြင်း အထိမ်းအမှတ်အနေနဲ့ သီဟာသနပလ္လင်ရဲ့ ဝဲယာမှာ လောကနတ်အရုပ်များကို ထားရှိခြင်းဖြစ်ကြောင်း မှတ်သားရပါသည်။",
+        "en": "At the two front left and right corners of the throne, there is a Lokanat figure representing peace, alongside sculptures of a flying elephant and a flying lion. According to the legend, the flying elephant and flying lion once quarreled in the sky while fighting over cloud-tips for food. Seeing this, the Lokanat played its cymbals with its feet while holding fresh myrtle leaves in its hands, singing and dancing joyfully. When the flying elephant and flying lion saw and heard the Lokanat's joyous performance, they felt delighted and their enmity ceased. It is recorded that Lokanat figures are placed on both sides of the Thihathana Throne to signify the easing of hostility through the power of music and the peace and prosperity of the nation.",
+        "th": "รายละเอียด: บริเวณมุมหน้าทั้งสองข้าง (ซ้ายและขวา) ของพระแท่นบัลลังก์ มีรูปปั้นโลกนารถซึ่งเป็นตัวแทนแห่งสันติภาพ ประดิษฐานคู่กับรูปปั้นช้างบินและสิงห์บิน ตามตำนานเล่าว่า วันหนึ่งช้างบินและสิงห์บินได้เกิดการทะเลาะวิวาทแย่งชิงยอดเมฆเพื่อเป็นอาหารอยู่บนท้องฟ้า เมื่อองค์โลกนารถได้เห็นเหตุการณ์ดังกล่าว จึงได้ขยับขยับฉิ่งที่เท้า พร้อมกับถือใบมะเม่า (ใบสลี/ใบชัยพฤกษ์) ไว้ในมือ แล้วขับร้องและเต้นรำด้วยความรื่นเริง เมื่อช้างบินและสิงห์บินได้เห็นและได้ยินการแสดงอันรื่นรมย์ขององค์โลกนารถ ทั้งสองก็เกิดความสบายใจ เบิกบานใจ จนความแค้นเคืองยุติต่างพ้นจากความเป็นศัตรูต่อกัน"
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other4",
+      "name": {
+        "mm": "4. ထီးတော်",
+        "en": "4. Royal White Umbrellas (Hti-daw)",
+        "th": "4. ฉัตรขาว / พระมหาเศวตฉัตร (Hti-daw)"
+      },
+      "summary": {
+        "mm": "မင်းဧကရာဇ်တို့၏ အထွတ်အမြတ် အဆောင်အယောင် ဖြစ်ပြီး ဘုရင်နှင့် မိဖုရားအတွက် ထီးဖြူများ ခင်းကျင်းလေ့ရှိသည်။ …",
+        "en": "These are the supreme regalia of sovereign emperors, with white umbrellas set up for both the king and the queen. …",
+        "th": "เป็นเครื่องราชกกุธภัณฑ์ชั้นสูงอันศักดิ์สิทธิ์ของพระมหากษัตริย์ โดยมีการจัดตั้งฉัตรขาวไว้สำหรับทั้งพระมหากษัตริย์และพระอัครมเหสี..."
+      },
+      "detailed_info": {
+        "mm": [
+          "သီဟာသနပလ္လင် ဝဲယာတွင် စုစုပေါင်း ထီးဖြူ (၈) စင်း",
+          "(က) ဘုရင်အတွက် (၄) စင်း: ကနက္ကဒဏ်ထီး၊ သူရိယထီး၊ ဝိသုကမ္မ (ဝိသုကြုံ) ထီး၊ သမုက္ခထီး",
+          "(ခ) မိဖုရားအတွက် (၄) စင်း: ကမ္ဗုထီး၊ စန္ဒထီး၊ ပဒုမထီး၊ သမုဒ္ဒဇာထီး",
+          "ထိုထီးများကို ရွှေချူ၊ ရွှေညောင်ရွက်၊ ရွှေကြယ်နှင့် နဝရတ်ကိုးပါးဝင် ကျောက်မျက်တို့ဖြင့် ခြယ်လှယ်ထားရှိပါသည်။"
+        ],
+        "en": [
+          "There are a total of 8 white umbrellas on both sides of the Thihathana Throne:",
+          "(A) For the King (4 umbrellas): Kanakkadanda Umbrella, Suriya (Sun) Umbrella, Visukamma (Visukrom) Umbrella, and Samukkha Umbrella.",
+          "(B) For the Queen (4 umbrellas): Kambu (Conch) Umbrella, Canda (Moon) Umbrella, Paduma (Lotus) Umbrella, and Samuddaza (Ocean) Umbrella.",
+          "These umbrellas are decorated with gold tassels, gold banyan-leaf ornaments, gold stars, and gems embedded with the nine precious stones (navaratna)."
+        ],
+        "th": [
+          "มีฉัตรขาวรวมทั้งหมด 8 องค์ ปักอยู่ทั้งสองข้างของพระราชบัลลังก์สีหาสนะ:",
+          "(ก) สำหรับพระมหากษัตริย์ (4 องค์): ฉัตรกนกทัณฑ์, ฉัตรสุริยะ (ดวงอาทิตย์), ฉัตรวิษณุกรรม (วิษณุกรม) และฉัตรสมุขขะ",
+          "(ข) สำหรับพระอัครมเหสี (4 องค์): ฉัตรกัมพู (สังข์), ฉัตรจันทรา (ดวงจันทร์), ฉัตรปทุม (ดอกบัว) และฉัตรสมุดทชา (มหาสมุทร)",
+          "ฉัตรเหล่านี้ได้รับการตกแต่งประดับประดาด้วยพู่ทองคำ ใบโพธิ์ทองคำ ดาวทองคำ และอัญมณีล้ำค่าที่ประกอบด้วยนพรัตน์ 9 ประการ"
+        ]
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other5",
+      "name": {
+        "mm": "5. အလံ",
+        "en": "5. The Seven Victorious Warrior Flags (Thuye-gyi Aung-lan)",
+        "th": "5. ธงชัยสมรภูมิทั้งเจ็ด (Thuye-gyi Aung-lan)"
+      },
+      "summary": {
+        "mm": "သူရဲကြီးအောင်လံ (၇) စင်းပါရှိပြီး၊ နေမင်းမှ ပေါ်ထွက်လာသော အခြေခံသက်တန့်ရောင် ၇ ရောင်ကို ကိုယ်စားပြုကာ ရန်အပေါင်းကို ချေမှုန်းနိုင်ခြင်းကို ဆောင်သည်။ …",
+        "en": "There are 7 flags, representing the 7 fundamental rainbow colors emerging from the sun, bearing the omen of crushing all enemies. …",
+        "th": "มีธงทั้งหมด 7 ผืน ซึ่งเป็นตัวแทนของสายรุ้ง 7 สีหลักที่กำเนิดมาจากดวงอาทิตย์ สื่อถึงนิมิตหมายแห่งการบดขยี้ปราบปรามศัตรูทั้งปวง..."
+      },
+      "detailed_info": {
+        "mm": [
+          "ဤအလံများကို ပလ္လင်၏ (၂၈) တောင်အကွာတွင် ထားရှိပြီး၊ အလံတစ်ခုစီတွင် အရောင်တစ်မျိုးစီနှင့် တိရစ္ဆာန်ပုံစံများ အသီးသီး ကွဲပြားစွာ ပါရှိကြသည်။",
+          "အလံအမျိုးအစားများနှင့် အရောင်များ:",
+          "1. နဂါးရုပ်ပါ - အလံဝါ",
+          "2. ဆင်ရုပ်ပါ - အလံနီ",
+          "3. ခြင်္သေ့ရုပ်ပါ - အလံစိမ်း",
+          "4. ဒေါင်းရုပ်ပါ - အလံနက်",
+          "5. ဘီလူးရုပ်ပါ - အလံဝါဖျော့",
+          "6. ဂဠုန်ရုပ်ပါ - ငွေရောင်အလံ",
+          "7. မျောက်ရုပ်ပါ - ရွှေရောင်အလံ",
+          "နေမင်းမှ ပေါ်ထွက်လာသော အခြေခံသက်တန့်ရောင် အရောင် (၇) ရောင်ကို ကိုယ်စားပြုသည့် ဤအလံများသည် တိုင်းပြည်နှင့် မင်းဧကရာဇ်တို့၏ ရန်အပေါင်းကို ချေမှုန်းနိုင်ခြင်း ဆိုသည့် အဓိပ္ပာယ်နှင့် နိမိတ်ကို ဆောင်ပါသည်။"
+        ],
+        "en": [
+          "These flags are placed at a distance of 28 taung (cubits) from the throne. Each flag has a distinct color and a different animal motif.",
+          "Flag types and colors:",
+          "1. Dragon motif: Yellow flag",
+          "2. Elephant motif: Red flag",
+          "3. Lion motif: Green flag",
+          "4. Peacock motif: Black flag",
+          "5. Ogre (Bilu) motif: Light yellow flag",
+          "6. Garuda motif: Silver-colored flag",
+          "7. Monkey motif: Gold-colored flag",
+          "Representing the 7 basic rainbow colors originating from the sun, these flags carry the symbolism and omen of being able to conquer and destroy all enemies of the nation and the sovereign emperor."
+        ],
+        "th": [
+          "ธงเหล่านี้จัดวางไว้ ณ ระยะห่าง 28 ศอก (ตอง) จากพระแท่นบัลลังก์ โดยธงแต่ละผืนจะมีสีและลวดลายสัตว์สัญลักษณ์ที่แตกต่างกันออกไป",
+          "ประเภทและสีของธง:",
+          "1. ลายพญานาค: ธงสีเหลือง",
+          "2. ลายช้าง: ธงสีแดง",
+          "3. ลายสิงห์: ธงสีเขียว",
+          "4. ลายนกยูง: ธงสีดำ",
+          "5. ลายยักษ์ (อสูร/บีลู): ธงสีเหลืองอ่อน",
+          "6. ลายครุฑ: ธงสีเงิน",
+          "7. ลายลิง: ธงสีทอง",
+          "ธงเหล่านี้ซึ่งเป็นตัวแทนของแสงรุ้ง 7 สีที่ส่องสว่างมาจากดวงอาทิตย์ สื่อถึงความหมายและนิมิตมงคลในการพิชิตและทำลายล้างศัตรูทั้งปวงของประเทศชาติและองค์พระมหากษัตริย์"
+        ]
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other6",
+      "name": {
+        "mm": "6. ယပ်မား",
+        "en": "6. Upright Ceremonial Fans (Yut-ma)",
+        "th": "6. พัดยศทรงตั้ง / ยัดม้า (Yut-ma)"
+      },
+      "summary": {
+        "mm": "ယပ်မားသည် လေခတ်ရန် ယပ်သဖွယ် ပုံစံရှိသော်လည်း၊ လေရရန်အတွက် မဟုတ်ဘဲ တည့်မတ်မှန်ကန်စွာ တရားစီရင်ရန် ရည်ရွယ်၍ ပြုလုပ်ထားခြင်း ဖြစ်သည်။ ...",
+        "en": "Although shaped like a fan meant for blowing air, the Yut-ma is not meant for cooling wind, but is designed to signify impartial and upright judgment in administering justice. …",
+        "th": "แม้ว่าจะมีรูปทรงคล้ายพัดที่ใช้สำหรับโบกลม แต่ ยัดม้า ไม่ได้มีไว้เพื่อโบกให้เกิดความเย็น หากแต่สร้างขึ้นเพื่อเป็นสัญลักษณ์สื่อถึงการพิจารณาคดีความและการบริหารบ้านเมืองด้วยความเที่ยงธรรมและตรงไปตรงมา..."
+      },
+      "detailed_info": {
+        "mm": "ယပ်မားသည် လေခတ်ရန် ယပ်သဖွယ်ဖြစ်သော်လည်း မားမားမတ်မတ်ထောင်နေခြင်းကြောင့် ယပ်မားဟုခေါ်ဆိုကာ သီဟာသနပလ္လင် တစ်ဖက်တစ်ချက်တွင် ထီးဖြူများနှင့် အတူ ထားရှိရပါတယ်။",
+        "en": "Because it stands straight like a fan (ma-ma-mat-mat), it is called Yut-ma and is placed on either side of the Thihathana Throne alongside the white umbrellas.",
+        "th": "เนื่องจากตั้งตรงตระหง่านเหมือนพัด (ม้า-ม้า-มัต-มัต) จึงเรียกว่า ยัดม้า และได้รับการประดิษฐานไว้ทั้งสองข้างของพระราชบัลลังก์สีหาสนะร่วมกับฉัตรขาว"
+      }
+    },
+
+    {
+      "id": "Other Royal Regalia and Symbols",
+      "category": "other7",
+      "name": {
+        "mm": "7. သူငယ်တော် (၈) ရုပ်",
+        "en": "7. Eight Child Figures (Thu-nge-daw)",
+        "th": "7. รูปปั้นเด็กแปดองค์ (Thu-nge-daw)"
+      },
+      "summary": {
+        "mm": "ကလေးငယ်များသည် တစ်ရက်နှင့်တစ်ရက် တဖြည်းဖြည်း ကြီးထွားလာသကဲ့သို့ မင်းဧကရာဇ် ဘုရင်မင်းမြတ်၏ ဘုန်းကျက်သရေနှင့် တန်ခိုးအာဏာစက်တို့မှာလည်း တစ်နေ့တခြား ကြီးမားမြင့်တက်လာစေရန် နိမိတ်ယူ ရည်ရွယ်၍ ထည့်သွင်း ထုလုပ်ထားခြင်း ဖြစ်ပါသည်။ ...",
+        "en": "Just as children grow and develop day by day, these are sculpted and included as a symbolic omen intended to make the glory, majesty, and sovereign power of the royal emperor continuously grow and rise higher day by day. …",
+        "th": "เปรียบเสมือนเด็กน้อยที่เจริญเติบโตขึ้นเรื่อยๆ ในทุกๆ วัน รูปปั้นเหล่านี้ถูกแกะสลักและนำมาประดิษฐานไว้เพื่อเป็นนิมิตมงคล โดยมุ่งหมายให้พระบารมี พระเกียรติยศ และพระบรมเดชานุภาพแห่งองค์พระมหากษัตริย์เจริญรุ่งเรืองเพิ่มพูนยิ่งขึ้นไปในทุกๆ วัน..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်၏ရှေ့တွင် သူငယ်အရုပ်ကလေး (၈) ရုပ်ကို အဉ္ဇလီမုဒြာဟန် (လက်နှစ်ဖက်ယှက်၍ ရှိခိုးနေဟန်) ဖြင့် ရှိနေကြရန် ထည့်သွင်းထားပြီး၊ ကလေးငယ်များကို ကိုယ်စားပြုသည့်အနေဖြင့် ထားရှိခြင်း ဖြစ်ပါသည်။ အဓိပ္ပာယ်မှာ ကလေးငယ်များ တစ်ရက်ပြီးတစ်ရက် တဖြည်းဖြည်း ကြီးထွားလာသကဲ့သို့ မင်းဧကရာဇ် ဘုရင်မင်းမြတ်၏ ဘုန်းကျက်သရေနှင့် တန်ခိုးအာဏာစက်တို့မှာလည်း တစ်နေ့တခြား တိုးတက်ကြီးမားလာစေရန် ရည်ရွယ်၍ ပြုလုပ်ထားသော သစ်သားရွှေချအရုပ်များ ဖြစ်ကြပါသည်။",
+        "en": "In front of the throne, 8 child figures are placed in the Anjali Mudra posture (hands clasped together in reverence/worship), representing young children. The underlying meaning, realized through these gilded wooden figures, is to symbolize that just as young children steadily grow day by day, the glory, majesty, and sovereign authority of the royal emperor will similarly expand and increase day by day.",
+        "th": "ด้านหน้าพระแท่นบัลลังก์ มีการจัดวางรูปปั้นเด็กน้อย 8 องค์ ในท่าอัญชลีมุทรา (ประนมมือไหว้ด้วยความเคารพ) เพื่อเป็นตัวแทนของเด็กเล็กๆ ความหมายแฝงที่ถ่ายทอดผ่านรูปปั้นไม้ปิดทองเหล่านี้ คือการเป็นสัญลักษณ์ว่า เสมือนหนึ่งเด็กน้อยที่เติบโตขึ้นอย่างสม่ำเสมอในทุกวัน พระเกียรติยศ พระบารมี และพระราชอำนาจแห่งองค์พระมหากษัตริย์ก็จะยิ่งแผ่ขยายและแผ่ไพศาลยิ่งขึ้นทุกวันเช่นเดียวกัน"
+      }
+    },
+    
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component1",
+      "name": {
+        "mm": "1. မှန်တိုင်",
+        "en": "1. Hman-taing (Spire / Central Mirror Pillar)",
+        "th": "1. หมั่นต่าย / เสายอดสปายร์ (Hman-taing)"
+      },
+      "summary": {
+        "mm": "အထွတ်အမြတ်ဆုံးနှင့် တည့်မတ်မှန်ကန်မှုကို ညွှန်ပြသော အစိတ်အပိုင်း။ …",
+        "en": "A component pointing upward to signify the highest sacredness, rectitude, and uprightness. …",
+        "th": "องค์ประกอบส่วนที่สูงที่สุด ซึ่งชี้ขึ้นด้านบนเพื่อสื่อถึงความศักดิ์สิทธิ์สูงสุด และความตรงฉินเที่ยงธรรม..."
+      },
+      "detailed_info": {
+        "mm": "သီဟာသနပလ္လင်တော်၏ ထိပ်ဆုံးတည့်တည့်မှ အထက်သို့ စိုက်ထူထားသော မှန်ကင်းတိုင် ဖြစ်ပါသည်။ သိကြားနတ်ရုပ်၏ နဖူး၌ ရွှေမှန်တိုင် စိုက်ထူထားသကဲ့သို့ ဘုရင်မင်းမြတ်သည်လည်း တရားစီရင်ရာ၌ မတိမ်းမစောင်း၊ ဖြောင့်မတ် မှန်ကန်စွာနှင့် မျှတစွာ ဆုံးဖြတ်စီရင်ရမည်ဟု သတိပေးသော အဓိပ္ပာယ်ကို ဖော်ဆောင်ပါသည်။",
+        "en": "It is the spire pillar erected straight up from the very top of the Thihathana Throne. Just as a golden spire pillar is erected on the forehead of the Sakra (King of Devas) figure, it serves as a reminder that the King must also pass judgment straightly, uprightly, correctly, and fairly without bias.",
+        "th": "เป็นเสาสปายร์ปักตั้งตรงขึ้นไปจากจุดสูงสุดของพระราชบัลลังก์สีหาสนะ เสมือนปักเสาสปายร์ทองคำไว้ ณ พระนลาฏ (หน้าผาก) ของรูปปั้นองค์อินทร์ (ท้าวสักกะ) เพื่อเป็นเครื่องเตือนใจว่า พระมหากษัตริย์จะต้องทรงตราชั่งและตัดสินคดีความด้วยความตรงฉิน เที่ยงธรรม ยุติธรรม และปราศจากอคติโดยไม่เอนเอียง"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component2",
+      "name": {
+        "mm": "2. ဒုရင်ဗိမာန်",
+        "en": "2. Du-yin Biman (Peacock-Chest Arch Motif)",
+        "th": "2. ดุริงบิมาน / ซุ้มอกนกยูง (Du-yin Biman)"
+      },
+      "summary": {
+        "mm": "ဒေါင်း၏ရင်နှင့်တူသော အစိတ်အပိုင်း။ …",
+        "en": "A component resembling the chest of a peacock. …",
+        "th": "องค์ประกอบที่มีลักษณะคล้ายอกของนกยูง..."
+      },
+      "detailed_info": {
+        "mm": "ဥကင်တော် အထက်ပိုင်းရှိ ဒေါင်း၏ ရင်ဘတ်သဏ္ဌာန် ပြုလုပ်ထားသော ကနုတ်အလှဆင် အစိတ်အက္ခရာ ဖြစ်ပါသည်။ ထိုဒုရင်ဝမ်း၏ အလယ်တည့်တည့်တွင် သိကြားနတ်မင်းနှင့် နဝရတ်ကိုးပါးတို့ကို ဆင်ယင်ထားရှိပါသည်။",
+        "en": "It is a kanoke (floral motif) decorative feature crafted in the shape of a peacock’s chest located above the U-kin-daw (gable roof porch). Right at the center of this peacock chest, Sakra, King of Devas, and the nine precious gems (navaratna) are set and adorned.",
+        "th": "เป็นลวดลายกนกประดับตกแต่งที่ทำเป็นรูปทรงอกของนกยูง อยู่บริเวณส่วนบนของซุ้มมุข (*อุกิ่งดอ*) บริเวณใจกลางอกนกยูงนี้ มีการประดิษฐานรูปปั้นท้าวสักกะ (องค์อินทร์) และประดับด้วยนพรัตน์อัญมณีเก้าประการ"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component3",
+      "name": {
+        "mm": "3. ဦးဆောက်ပန်း",
+        "en": "3. U-hsauk-pan (Auspicious Crest Flower)",
+        "th": "3. อูเชาะปาน / ดอกไม้มงคลยอดซุ้ม (U-hsauk-pan)"
+      },
+      "summary": {
+        "mm": "မင်္ဂလာပန်းအဖြစ် နိမိတ်ယူထားသော အစိတ်အပိုင်း။ …",
+        "en": "A component taken as a symbolic omen of fortune and auspiciousness. …",
+        "th": "องค์ประกอบที่ใช้เป็นนิมิตมงคลแห่งความเจริญรุ่งเรือง..."
+      },
+      "detailed_info": {
+        "mm": "ရာဇပလ္လင် ဥကင်အထက် လက်ဝဲလက်ယာတွင် တပ်ဆင်ထားသော ပန်းပုကနုတ် ပန်းခက်ပုံစံ အစိတ်အပိုင်း ဖြစ်ပါသည်။ တိုင်းပြည်နှင့် မင်းဧကရာဇ်အတွက် မင်္ဂလာအပေါင်းနှင့် ပြည့်စုံစေရန် နိမိတ်ယူ တန်ဆာဆင်ထားသော မင်္ဂလာပန်း ဖြစ်ပါသည်။",
+        "en": "It is a carved floral/branch kanoke component fitted on both the left and right sides above the throne's U-kin-daw. It is an auspicious flower motif designed as an ornament to bring all forms of blessings and prosperity upon the country and the sovereign king.",
+        "th": "เป็นชิ้นส่วนแกะสลักลวดลายกนกเครือเถาและกิ่งไม้ ติดตั้งไว้ทั้งด้านซ้ายและด้านขวาเหนือซุ้มมุข (*อุกิ่งดอ*) ของพระราชบัลลังก์ เป็นดอกไม้มงคลที่ประดับไว้เพื่อความเป็นสิริมงคลและความสมบูรณ์พูนสุขของประเทศชาติและองค์พระมหากษัตริย์"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component4",
+      "name": {
+        "mm": "4. သိကြား",
+        "en": "4. Sakra (Thagyamin / King of Devas)",
+        "th": "4. ท้าวสักกะ / พระเจ้าอินทร์ (Sakra)"
+      },
+      "summary": {
+        "mm": "တေတ္တိသ ၃၃ ယောက် နတ်သိကြားတို့ကို ဖော်ဆောင်ပြီး ဘုရင်ကို စောင့်ရှောက်သည်။ …",
+        "en": "Represents the 33 celestial Devas of Tavatimsa and protects the King. …",
+        "th": "สื่อถึงเทพยดา 33 องค์ แห่งสวรรค์ชั้นดาวดึงส์ และทรงคอยปกปักษ์รักษาพระมหากษัตริย์..."
+      },
+      "detailed_info": {
+        "mm": "ဒုရင်ဗိမာန်၏ ထိပ်၊ အလယ်ခေါင်တည့်တည့်တွင် သားမြီးယပ်ကို ကိုင်ဆောင်လျက် ထုလုပ်ထားသော နတ်တို့၏ ဘုရင် သိကြားနတ်မင်း ရုပ်တု ဖြစ်ပါသည်။ ဘုရင်မင်းမြတ်အား အစဉ်စောင့်ရှောက်ရန်နှင့် ဆုံးဖြတ်ချက်များ မှန်ကန်မျှတစေရန် သတိပေးစောင့်ကြပ်သည့် အဓိပ္ပာယ်ကို ဆောင်ပါသည်။",
+        "en": "Located right at the top center of the Du-yin Biman, it is a statue of Sakra, King of Devas, holding a yak-tail fly-whisk. It carries the symbolic meaning of guarding and reminding the King to maintain just, righteous, and fair decisions while protecting his majesty at all times.",
+        "th": "ประดิษฐานอยู่ ณ จุดสูงสุดใจกลางของซุ้มอกนกยูง (*ดุริงบิมาน*) เป็นรูปปั้นของท้าวสักกะ (องค์อินทร์) ผู้เป็นใหญ่แห่งทวยเทพ ถือแส้ขนหางแอ่น (แส้จามรี) มีความหมายในการคอยปกป้องคุ้มครอง และคอยเตือนใจให้พระมหากษัตริย์ทรงตัดสินพระทัยได้อย่างถูกต้อง ยุติธรรม และเที่ยงตรงอยู่เสมอ"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component5",
+      "name": {
+        "mm": "5. သမ္မာဒေဝ နတ်မင်းကြီး ၂ ပါး / သိကြားငယ် (၉) ရုပ် / သိကြားငယ် (၇) ရုပ်",
+        "en": "5. The 2 Thamma-deva Great Devas / 9 Minor Sakra Figures / 7 Minor Sakra Figures",
+        "th": "5. สัมมาเทวานพมหาราช 2 องค์ / รูปปั้นเทพขนาดเล็ก 9 และ 7 องค์"
+      },
+      "summary": {
+        "mm": [
+          "သမ္မာဒေဝ နတ်မင်းကြီး ၂ ပါး",
+          "သုံးကျိပ်သုံးယောက်သော သိကြားနတ်မင်းကြီးများနှင့်တကွ သမ္မာဒေဝ နတ်ကောင်းနတ်မြတ်တို့က ပလ္လင်တော်နှင့် မင်းဧကရာဇ် ဘုရင်မင်းမြတ်အား အမြဲမပြတ် စောင့်ရှောက်ရန်၊ ဘေးဥပဒ်အန္တရာယ်များကို ကာကွယ်တားဆီးရန်နှင့် တရားမျှတမှုကို ထိန်းသိမ်းရန် ရည်ရွယ်၍ ပုံဖော်ထားခြင်း ဖြစ်ပါသည်။",
+          "သိကြားငယ် (၉) ရုပ်",
+          "ဘုရင်ကို စောင့်ရှောက်ရန်နှင့် ကာကွယ်ရန် ပါရှိသော နတ်ရုပ်ငယ်များ။",
+          "သိကြားငယ် (၇) ရုပ်",
+          "ဥကင်တော် ဝဲယာပန်းများတွင် စောင့်ရှောက်သည့် သဘောဖြင့် ပါရှိသော နတ်ရုပ်များ။"
+        ],
+        "en": [
+          "The 2 Thamma-deva Great Devas (Guardian Deities)",
+          "Sculpted with the intention that the 33 Sakra devas along with the Thamma-deva (virtuous deities) continuously protect the throne and the sovereign emperor, warding off dangers and maintaining justice.",
+          "9 Minor Sakra Figures",
+          "7 Minor Sakra Figures"
+        ],
+        "th": [
+          "สัมมาเทวานพมหาราช 2 องค์",
+          "แกะสลักขึ้นด้วยความมุ่งหมายให้ท้าวสักกะและเหล่าสัมมาเทวดา คอยปกป้องคุ้มครองพระราชบัลลังก์และองค์พระมหากษัตริย์อยู่ตลอดเวลา",
+          "รูปปั้นเทพขนาดเล็ก 9 องค์",
+          "รูปปั้นเทพขนาดเล็ก 7 องค์"
+        ]
+      },
+      "detailed_info": {
+        "mm": [
+          "မြန်မာ့ရာဇဘိသိက် နန်းသုံးအဆောက်အအုံများနှင့် ရာဇပလ္လင်တော်များ တည်ဆောက်ရာတွင် စကြာဝဠာ အနေအထားအရ နတ်ဗြဟ္မာတို့၏ စောင့်ရှောက်မှုကို ခံယူသည်ဟူသော ယုံကြည်ချက် အယူအဆ တည်ရှိပါသည်။ ပလ္လင်တော်၏ ဥကင်တော်အထက်ပိုင်းနှင့် ဝဲယာပန်းခက်များတွင် တည်ရှိနေကြသော ဤသမ္မာဒေဝ နတ်မင်းကြီးများနှင့် နတ်ရုပ်ငယ်များသည် မင်းဧကရာဇ်မင်းမြတ်၏ တရားစီရင်ရေး မဏ္ဍိုင်နှင့် နိုင်ငံတော်အုပ်ချုပ်ရေး လုပ်ငန်းများကို မကောင်းသော အန္တရာယ်များ၊ ရန်သူမျိုး ၅ပါးတို့ မကပ်ရောက်နိုင်အောင် အစောင့်အရှောက်ပေးကြသည်ဟု ယူဆကြသည်။",
+          "ဥကင်တော် အထက်ပိုင်းတွင် ဝိသေသပြု တန်ဆာဆင်ထားသော နတ်ရုပ်ငယ်များ ဖြစ်ကြပါသည်။ မင်းဧကရာဇ်အား စောင့်ရှောက်ရန်နှင့် မကောင်းဆိုးဝါး၊ ဘေးအန္တရာယ်များကို ကာကွယ်တားဆီးရန် ထုလုပ်ထားခြင်း ဖြစ်ပါသည်။",
+          "ဥကင်တော် ဝဲယာ ပန်းများတွင် တစ်ဖက်လျှင် (၇) ရုပ်စီ (စုစုပေါင်း ၁၄ ရုပ်) ထုလုပ်ထားသော သမ္မာဒေဝ နတ်ရုပ်များ ဖြစ်ကြပါသည်။ သုံးကျိပ်သုံးယောက်သော သိကြားနတ်တို့က ပလ္လင်တော်နှင့် မင်းဧကရာဇ်အား အမြဲမပြတ် စောင့်ရှောက်နေသည်ဟု ရည်ရွယ်ပါသည်။"
+        ],
+        "en": "In Myanmar royal coronation architecture and throne design, there is a traditional cosmological belief that kings receive the protection of devas and Brahmas. These Thamma-deva great deities and minor deva figures, situated on the upper U-kin-daw and the left and right floral branches of the throne, are believed to safeguard the King’s pillar of justice and state governance.",
+        "th": "ในการสร้างสถาปัตยกรรมพระราชวังและพระราชบัลลังก์ตามโบราณราชประเพณีพม่า มีคติความเชื่อตามจัดระเบียบจักรวาลว่า พระมหากษัตริย์ทรงได้รับความคุ้มครองจากเหล่าเทวดาและมหาพรหม"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component6",
+      "name": {
+        "mm": "6. မှော်တန်း",
+        "en": "6. Maw-tan (Sculpted Floral Moulding)",
+        "th": "6. หมอตาญ / ลวดลายกนกไม้แกะสลัก (Maw-tan)"
+      },
+      "summary": {
+        "mm": "သစ်သားပန်းပု ကနုတ်လက်ရာ အဆင်အယင်။ …",
+        "en": "An ornate wooden carving motif. …",
+        "th": "ลายนวดไม้แกะสลักวิจิตรบรรจง..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်တော်၏ အလယ်နှင့် ခါးပန်းနေရာများတွင် ကြွတက်နေအောင် ပန်းပုထုလုပ်ထားသော ကနုတ်ပန်းနွယ် အနုလက်ရာတန်း ဖြစ်ပါသည်။ မြန်မာ့ပန်းပု အနုပညာ၏ ခမ်းနားတင့်တယ်မှုနှင့် အလှဓာတ်ကို ဖော်ဆောင်ပါသည်။",
+        "en": "It is a raised, exquisitely hand-carved floral vine strip crafted along the middle and waist sections of the throne, showcasing the magnificent elegance and aesthetic beauty of Myanmar woodcarving art.",
+        "th": "เป็นแถบลายกนกเถาไม้แกะสลักนูนต่ำอย่างประณีต วางตัวอยู่บริเวณส่วนกลางและส่วนคอดของพระราชบัลลังก์ สะท้อนถึงความงดงาม ความอลังการ และคุณค่าทางศิลปะการแกะสลักไม้ของพม่า"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component7",
+      "name": {
+        "mm": "7. ကြာပွင့်ခံ",
+        "en": "7. Kyar-pwint-hkan (Lotus Flower Base)",
+        "th": "7. กยาปวิ่นฮกาน / ฐานบัวคู่อกไก่ (Kyar-pwint-hkan)"
+      },
+      "summary": {
+        "mm": "ကြာမှောက်ကြာလှန် ဆက်ထားသော ပလ္လင်အခြေခံပုံစံ။ …",
+        "en": "A foundational throne style connecting inverted and upright lotus petals. …",
+        "th": "รูปแบบฐานบัลลังก์ที่เชื่อมต่อกันระหว่างบัวคว่ำและบัวหงาย..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်၏ အခြေခံသဏ္ဌာန်ဖြစ်ပြီး ကြာမှောက် ကြာလှန် နှစ်ပွင့် ဆက်ထားသော ပုံစံဖြစ်ပါသည်။ သန့်ရှင်းစင်ကြယ်ခြင်း၊ မြင့်မြတ်ခြင်းနှင့် အေးချမ်းခြင်းကို ဖော်ဆောင်ပါသည်။",
+        "en": "It forms the base structure of the throne, shaped by joining two lotus flowers—one facing down (kyar-hmawk) and one facing up (kyar-hlan). It symbolizes purity, nobility, and peace.",
+        "th": "เป็นโครงสร้างฐานของพระราชบัลลังก์ มีลักษณะเป็นดอกบัวสองดอกประกบกัน คือ บัวคว่ำ (*กยาหมอก*) และบัวหงาย (*กยาฮลาน*) สื่อถึงความบริสุทธิ์ ความสูงส่ง และความสงบเย็น"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component8",
+      "name": {
+        "mm": "8. ဥကင်တော်",
+        "en": "8. U-kin-daw (Gable Roof / Crown Pavilion)",
+        "th": "8. อุกิ่งดอ / ซุ้มเรือนยอดทรงมุข (U-kin-daw)"
+      },
+      "summary": {
+        "mm": "ပလ္လင်၏ အပေါ်ပိုင်း အလုပ်အဆောင်အားလုံး။ …",
+        "en": "All the upper structural and decorative elements of the throne. …",
+        "th": "เครื่องประดับตกแต่งสถาปัตยกรรมส่วนบนทั้งหมดของพระราชบัลลังก์..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်၏ အပေါ်ပိုင်း အလုပ်အဆောင် တန်ဆာဆင်မှု အားလုံးကို ခြုံငုံ၍ ခေါ်ဆိုခြင်း ဖြစ်ပါသည်။ သိကြား၊ နတ်၊ နေ၊ လ စသည့် စကြာဝဠာဆိုင်ရာ သင်္ကေတများအားလုံး စုစည်းရာ မြင့်မြတ်သော အထက်ပိုင်း ဖြစ်ပါသည်။",
+        "en": "A collective term for all the ornamental upper works of the throne. It is the sacred upper section where cosmic symbols like Sakra, devas, the sun, and the moon come together.",
+        "th": "เป็นคำเรียกรวมของงานตกแต่งสถาปัตยกรรมเรือนยอดส่วนบนทั้งหมดของพระแท่นบัลลังก์ ถือเป็นพื้นที่สูงส่งศักดิ์สิทธิ์อันเป็นศูนย์รวมของสัญลักษณ์จักรวาลวิทยา เช่น ท้าวสักกะ เทพยดา ดวงอาทิตย์ และดวงจันทร์"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component9",
+      "name": {
+        "mm": "9. ကိန္နရာ",
+        "en": "9. Kinnara",
+        "th": "9. กินนรา (Kinnara)"
+      },
+      "summary": {
+        "mm": "မြန်မာ့ယဉ်ကျေးမှု အနုပညာ ရုပ်ုတု တစ်မျိုး။ …",
+        "en": "A traditional mythical creature in Myanmar art and culture. …",
+        "th": "สัตว์ในตำนานประเพณีและศิลปะพม่า..."
+      },
+      "detailed_info": {
+        "mm": "လူအထက်ပိုင်း၊ ငှက်အောက်ပိုင်း သဏ္ဌာန်ရှိသော မြန်မာ့ယဉ်ကျေးမှု သတ္တဝါ ရုပ်တု ဖြစ်ပါသည်။ သစ္စာရှိခြင်း၊ ချစ်ခြင်းနှင့် မြန်မာ့နန်းတွင်း အနုပညာ အလှတရားကို ဖော်ဆောင်ပါသည်။",
+        "en": "A traditional Myanmar cultural creature with the upper body of a human and the lower body of a bird. It represents faithfulness, love, and the aesthetic beauty of Myanmar court art.",
+        "th": "เป็นรูปปั้นสัตว์ในตำนานตามวัฒนธรรมพม่า มีร่างกายส่วนบนเป็นมนุษย์และส่วนล่างเป็นนก สื่อถึงความซื่อสัตย์ ความรัก และความงดงามทางศิลปะราชสำนักพม่า"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component10",
+      "name": {
+        "mm": "10. ခြူးပန်း",
+        "en": "10. Chuu-pan (Protective Floral Vine Carvings)",
+        "th": "10. ชูพาน / ลายกนกเถาขจัดอสูร (Chuu-pan)"
+      },
+      "summary": {
+        "mm": "ဘီလူးများ မကပ်နိုင်ရန် တန်ဆာဆင်ထားသော ပန်းနွယ်ပုံစံ။ …",
+        "en": "A traditional mythical creature in Myanmar art and culture. …",
+        "th": "ลวดลายกนกเถาพันเกี่ยวกันเพื่อป้องกันอสูรและสิ่งเลวร้าย..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်တော်အနှံ့ တွန့်လိမ်ယှက်နွယ်နေသော ခြူးပန်း၊ ခြူးနွယ် ပန်းပုလက်ရာများ ဖြစ်ပါသည်။ အလှဆင်ခြင်းအပြင် မကောင်းသော ဘီလူး၊ သရဲများ ကြောက်ရွံ့၍ ပလ္လင်တော်အနီး မကပ်နိုင်ဟု ယုံကြည်ချက်ဖြင့် ထုလုပ်ထားခြင်း ဖြစ်ပါသည်။",
+        "en": "A traditional Myanmar cultural creature with the upper body of a human and the lower body of a bird. It represents faithfulness, love, and the aesthetic beauty of Myanmar court art.",
+        "th": "เป็นงานแกะสลักลวดลายกนกเถาเลื้อยพันกันอย่างวิจิตรกระจายอยู่ทั่วพระราชบัลลังก์ นอกจากความสวยงามแล้ว ยังแกะสลักขึ้นด้วยความเชื่อที่ว่าพวกบีลู (ยักษ์/อสูร) และภูตผีปีศาจจะเกิดความหวาดกลัวและไม่กล้ากล้ำกลายเข้าใกล้พระราชบัลลังก์"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component11",
+      "name": {
+        "mm": "11. ဆင်နားဇာ",
+        "en": "11. Hsin-nar-za (Elephant-Ear Lintel Opening)",
+        "th": "11. ซินนารซา / ช่องประตูหูช้างฉัททันต์ (Hsin-nar-za)"
+      },
+      "summary": {
+        "mm": "ဆဒ္ဒန်ဆင်မင်း၏ နားရွက်ပုံသဏ္ဌာန်ဖြင့် ပြုလုပ်ထားသော တံခါးပေါက်။ …",
+        "en": "A doorway motif crafted in the shape of the sacred Chaddanta elephant's ear. …",
+        "th": "ช่องประตูบานเลื่อนที่ทำเป็นรูปทรงใบหูของพญาช้างฉัททันต์..."
+      },
+      "detailed_info": {
+        "mm": "လျှော၍ တွန်းရသော တံခါးတွင် ဆဒ္ဒန်ဆင်မင်း၏ နားရွက် ပုံသဏ္ဌာန် ပြုလုပ်ထားသော ဖောက်လုပ်ထားသည့် တံခါးပေါက် ဖြစ်ပါသည်။ ဆဒ္ဒန်ဆင်မင်းသည် ဆင်တို့၏ အကြီးအကဲ မြင့်မြတ်သကဲ့သို့ ဘုရင်သည်လည်း မင်းတို့၏ မင်းဧကရာဇ် ဖြစ်သည်ဟူသော အဓိပ္ပာယ်ကို ဆောင်ပါသည်။",
+        "en": "An opening on the sliding doors crafted in the form of the Chaddanta elephant king's ear. Just as the Chaddanta elephant is the noble chief among elephants, it signifies that the King is the supreme ruler among kings.",
+        "th": "เป็นช่องเปิดบนบานประตูสไลด์บานเลื่อน ที่ทำเป็นรูปทรงเหมือนใบหูของพญาช้างฉัททันต์ สื่อความหมายว่า เช่นเดียวกับพญาช้างฉัททันต์ที่เป็นใหญ่และประเสริฐที่สุดในหมู่ช้าง พระมหากษัตริย์ก็ทรงเป็นพระจักรพรรดิมหาราชผู้เป็นใหญ่เหนือมหากษัตริย์ทั้งปวง"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component12",
+      "name": {
+        "mm": "12. ဒေါင်းရုပ်",
+        "en": "12. Peacock Figure (Daung-yup)",
+        "th": "12. รูปนกยูง (Daung-yup)"
+      },
+      "summary": {
+        "mm": "နေ၏သင်္ကေတ။ …",
+        "en": "Symbol of the Sun. …",
+        "th": "สัญลักษณ์แห่งดวงอาทิตย์..."
+      },
+      "detailed_info": {
+        "mm": "ဥကင်တော်၏ လက်ဝဲဘက် တံခါးတိုင်အထက် ကြာပန်းခံချက်တွင် ပါရှိသော ဥဒေါင်းရုပ်တု ဖြစ်ပါသည်။ နေ၏ သင်္ကေတ (သူရိယဝံသ) ဖြစ်ပြီး၊ မြန်မာမင်းများသည် နေမျိုးနွယ်မှ ဆင်းသက်လာသူများ ဖြစ်ကြောင်း ဖော်ပြခြင်း ဖြစ်ပါသည်။",
+        "en": "A peacock sculpture positioned on the lotus base above the left door pillar of the U-kin-daw. It serves as a symbol of the sun (Suriya-vamsa), signifying that the Myanmar kings descended from the Solar Dynasty.",
+        "th": "เป็นรูปปั้นนกยูงประดิษฐานอยู่บนฐานดอกบัวเหนือเสาประตูฝั่งซ้ายของซุ้มมุข (*อุกิ่งดอ*) เป็นสัญลักษณ์แห่งดวงอาทิตย์ (*สุริยวงศ์*) แสดงให้เห็นว่าพระมหากษัตริย์พม่าสืบสายเลือดมาจากสุริยวงศ์"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component13",
+      "name": {
+        "mm": "13. တံခါးတိုင်",
+        "en": "13. Door Pillars (Tan-hgar-taing)",
+        "th": "13. เสาประตูบัลลังก์ (Tan-hgar-taing)"
+      },
+      "summary": {
+        "mm": "ပလ္လင်တံခါး၏ ဘေးတစ်ဖက်တစ်ချက် တိုင်များ။ …",
+        "en": "Pillars on either side of the throne's door. …",
+        "th": "เสาประตูด้านข้างทั้งสองฝั่งของพระแท่นบัลลังก์..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်ပေါ်ရှိ လျှော၍တွန်းရသော တံခါး၏ ဘေးတစ်ဖက်တစ်ချက် တိုင်များ ဖြစ်ပါသည်။ စတုမဟာရာဇ် နတ်မင်းကြီး (၄) ပါး၏ ရုပ်တုများကို ထွင်းထုထားပြီး ကမ္ဘာကြီးနှင့် တိုင်းပြည်ကို စောင့်ကြပ်သည့် အဓိပ္ပာယ်ကို ဆောင်ပါသည်။",
+        "en": "Pillars flanking both sides of the sliding door on the throne. Statues of the Four Heavenly Kings (Caturmahārājika) are carved into them, symbolizing guardians who watch over the world and the nation.",
+        "th": "เป็นเสาที่ขนาบอยู่สองข้างของประตูบานเลื่อนบนพระแท่น มีการแกะสลักรูปปั้นของท้าวจตุมหาราชิกา (มหาราชทั้ง 4) ไว้บนเสา สื่อถึงเทพผู้คุ้มครองรักษาคุ้มแดนโลกและประเทศชาติ"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component14",
+      "name": {
+        "mm": "14. စိန်ပွင့်",
+        "en": "14. Sein-pwint (Diamond Floral Bosses)",
+        "th": "14. เซนปวิ่น / ลายดอกไม้เพชร (Sein-pwint)"
+      },
+      "summary": {
+        "mm": "တန်ဆာဆင်ထားသော ပန်းပွင့်ပုံစံ။ …",
+        "en": "Decorative flower motifs. …",
+        "th": "ลวดลายดอกไม้ประดับตกแต่ง..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်တော်၏ တံခါးနှင့် ဘောင်များတွင် စိန်ပွင့်သဏ္ဌာန် ကြွတက်နေအောင် ထုဆစ်ထားသော အလှဆင် ပန်းပွင့် ပုံစံဖြစ်ပါသည်။ ပလ္လင်တော်၏ တန်းဆာဆင်မှု အရောင်အဝါ ကြက်သရေ တိုးပွားစေရန် ဖြစ်ပါသည်။",
+        "en": "Raised, diamond-shaped flower motifs sculpted onto the doors and frames of the throne to enhance its splendor, radiance, and majestic grace.",
+        "th": "เป็นลวดลายดอกไม้ประดับแกะสลักนูนต่ำรูปทรงดอกไม้เพชร บนบานประตูและกรอบของพระราชบัลลังก์ เพื่อเพิ่มพูนความสง่างาม รัศมี และบารมีมงคลให้แก่พระแท่นบัลลังก์"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component15",
+      "name": {
+        "mm": "15. မာရဘင်",
+        "en": "15. Ma-ra-bin (Royal Wooden Backdrop Screen)",
+        "th": "15. มารบิน / ฉากไม้ฉากหลังพระแท่น (Ma-ra-bin)"
+      },
+      "summary": {
+        "mm": "ပလ္လင်နောက်ဘက်တွင် ထောင်လိုက်တည်ရှိသည့် သစ်သားခန်းဆီး။ …",
+        "en": "A vertical wooden screen located behind the throne. …",
+        "th": "ฉากกั้นไม้แนวตั้งขนาดใหญ่ด้านหลังพระราชบัลลังก์..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်တော်၏ နောက်ဘက်တွင် ထောင်လိုက် တည်ရှိသော သစ်သား ခန်းဆီးကြီး ဖြစ်ပါသည်။ ဘုရင်နှင့် မိဖုရားတို့သည် ပလ္လင်ပေါ်သို့ တက်ရောက်ရန် မာရဘင်နောက်ဘက်ရှိ လှေကားမှ တက်ရောက်၍ တံခါးကိုဖွင့်ကာ ကြွမြန်းတော်မူရခြင်း ဖြစ်ပါသည်။",
+        "en": "A large vertical wooden partition wall situated at the back of the throne. To ascend the throne, the King and Queen climb the stairs behind the Ma-ra-bin, open the throne door, and step forward onto the seat.",
+        "th": "เป็นฉากกั้นไม้ขนาดใหญ่ที่ตั้งอยู่ด้านหลังของพระแท่นบัลลังก์ ในการเสด็จขึ้นประทับพระราชบัลลังก์ พระมหากษัตริย์และพระอัครมเหสีจะเสด็จขึ้นทางบันไดด้านหลังฉากมารบิน แล้วจึงทรงเปิดประตูเสด็จก้าวออกสู่พระแท่นประทับ"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component16",
+      "name": {
+        "mm": "16. ခြင်္သေ့ရုပ်",
+        "en": "16. Lion Figure (Chinthe)",
+        "th": "16. รูปสิงห์ (Chinthe)"
+      },
+      "summary": {
+        "mm": "ရဲရင့်ခြင်း၊ တက်ကြွခြင်းနှင့် ရန်ကိုနှိမ်နင်းခြင်းကို ဖော်ဆောင်သော ရုပ်တု။ …",
+        "en": "A sculpture embodying courage, vitality, and the subduing of enemies. …",
+        "th": "รูปปั้นสื่อถึงความกล้าหาญ ความกระตือรือร้น และการกำราบศัตรู..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်၏ အောက်ခြေ စမုံပေါက်များတွင် သွတ်သွင်းထားသော ကေသရာဇာ ခြင်္သေ့ရုပ်များ (၁၀၈ ကောင်) ဖြစ်ပါသည်။ ခြင်္သေ့မင်းသည် ရဲရင့်ခြင်း၊ တက်ကြွခြင်း၊ ရန်သူကို အောင်နိုင်ခြင်း၊ သစ္စာစောင့်သိခြင်းနှင့် တည်ကြည်ခြင်းတို့ကို ဖော်ဆောင်ပါသည်။",
+        "en": "108 lion figures (Kesaraja) inserted into the ventilation holes (samon-pauk) at the base of the throne. The lion king represents bravery, enthusiasm, victory over foes, loyalty, and steadfastness.",
+        "th": "เป็นรูปปั้นพญาสิงหราช (*เกสราชา*) จำนวน 108 ตัว ที่ประดิษฐานไว้ในช่องลม (*สมงเปาก์*) ใต้ฐานพระแท่น พญาสิงห์เป็นสัญลักษณ์สื่อถึงความกล้าหาญ ความกระตือรือร้น ชัยชนะเหนือศัตรู ความซื่อสัตย์ และความมั่นคงประดิษฐาน"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component17",
+      "name": {
+        "mm": "17. မကရ်းကွက်",
+        "en": "17. Makara Pattern (Makaran-kwat)",
+        "th": "17. ลายมะกอน / ลายมังกรทะเล myth (Makaran-kwat)"
+      },
+      "summary": {
+        "mm": "ရေနေသတ္တဝါပုံစံ ကနုတ်ပုံဖော်မှု။ …",
+        "en": "A kanoke design representing a mythical aquatic creature. …",
+        "th": "งานแกะสลักลายกนกรูปสัตว์น้ำในตำนาน..."
+      },
+      "detailed_info": {
+        "mm": "ဒဏ္ဍာရီလာ ရေနေသတ္တဝါ (မကန်း) ၏ ပုံသဏ္ဌာန်ကို ကနုတ်အဖြစ် ပုံဖော်ထားသော အစိတ်အပိုင်း ဖြစ်ပါသည်။ အကာအကွယ် ပေးနိုင်စွမ်းနှင့် မြန်မာ့ရှေးဟောင်း ဗိသုကာ၏ ခိုင်ခံ့တင့်တယ်မှုကို ဖော်ဆောင်ပါသည်။",
+        "en": "A decorative component shaped into the form of the mythical aquatic monster (Makara). It symbolizes protective power as well as the durability and grace of ancient Myanmar architecture.",
+        "th": "เป็นองค์ประกอบกนกที่แกะสลักเป็นรูปทรงของ 'มะกอน' (มกร/สัตว์น้ำในตำนาน) สื่อถึงพลังในการปกป้องคุ้มครอง รวมถึงความแข็งแกร่งและงดงามตระการตาของสถาปัตยกรรมพม่าโบราณ"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component18",
+      "name": {
+        "mm": "18. ယုန်ရုပ်",
+        "en": "18. Hare Figure (Yone-yup)",
+        "th": "18. รูปกระต่าย (Yone-yup)"
+      },
+      "summary": {
+        "mm": "လ၏သင်္ကေတ။ …",
+        "en": "Symbol of the Moon. …",
+        "th": "สัญลักษณ์แห่งดวงจันทร์..."
+      },
+      "detailed_info": {
+        "mm": "ဥကင်တော်၏ လက်ယာဘက် တံခါးတိုင်အထက် ကြာပန်းခံချက်တွင် ပါရှိသော ယုန်ရုပ်တု ဖြစ်ပါသည်။ လ၏ သင်္ကေတ (စန္ဒဝံသ) ဖြစ်ပြီး၊ မြန်မာမင်းများသည် လမျိုးနွယ်မှလည်း ဆင်းသက်လာသူများ ဖြစ်ကြောင်း ဖော်ပြခြင်း ဖြစ်ပါသည်။",
+        "en": "A hare sculpture positioned on the lotus base above the right door pillar of the U-kin-daw. It serves as a symbol of the moon (Canda-vamsa), signifying that the Myanmar kings also descended from the Lunar Dynasty.",
+        "th": "เป็นรูปปั้นกระต่ายประดิษฐานอยู่บนฐานดอกบัวเหนือเสาประตูฝั่งขวาของซุ้มมุข (*อุกิ่งดอ*) เป็นสัญลักษณ์แห่งดวงจันทร์ (*จันทรวงศ์*) แสดงให้เห็นว่าพระมหากษัตริย์พม่าทรงสืบสายเลือดมาจากจันทรวงศ์ด้วยเช่นกัน"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component19",
+      "name": {
+        "mm": "19. လောကနတ်",
+        "en": "19. Lokanat",
+        "th": "19. โลกนารถ (Lokanat)"
+      },
+      "summary": {
+        "mm": "ငြိမ်းချမ်းရေးနှင့် အောင်မြင်မှုကို ကိုယ်စားပြုသော ရုပ်တု။ …",
+        "en": "A statue representing peace and success. …",
+        "th": "รูปปั้นที่เป็นตัวแทนแห่งสันติภาพและความสำเร็จ..."
+      },
+      "detailed_info": {
+        "mm": "ပလ္လင်၏ တံခါးရွက်နှင့် အရှေ့ဘက် ဝဲယာထောင့်များတွင် တွေ့ရသော မင်းသားဟန်ပန် ဆင်ယင်ထားသည့် ရုပ်တု ဖြစ်ပါသည်။ ခြေထောက်ရှိ စုပ်စည်းကိုတီး၍ လက်မှ သပြေရွက်ဖြင့် ကခုန်သီဆိုကာ ရန်ပြေငြိမ်းစေသဖြင့် တိုင်းပြည် အေးချမ်းသာယာခြင်းနှင့် အောင်မြင်ခြင်းကို ကိုယ်စားပြုပါသည်။",
+        "en": "A figure dressed in prince-like attire found on the door leaves and front left/right corners of the throne. By playing cymbals at its feet and dancing with fresh myrtle leaves in hand, it pacified enemies, symbolizing national peace, harmony, and success.",
+        "th": "เป็นรูปปั้นแต่งกายทรงเครื่องมหาพุทธองค์/เจ้าชาย พบได้บริเวณบานประตูและมุมหน้าซ้าย-ขวาของพระแท่น ขยับฉิ่งที่เท้าและถือใบมะเม่าร้องรำทำเพลงจนขจัดความขัดแย้งให้หมดไป เป็นตัวแทนแห่งความสงบสุข ร่มเย็น และความสำเร็จของบ้านเมือง"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component20",
+      "name": {
+        "mm": "20. စိုင်ပေါင်",
+        "en": "20. Hsaing-paung (Bovine-Thigh Frame Curve)",
+        "th": "20. ไซเปา / กรอบข้างรูปโคนก (Hsaing-paung)"
+      },
+      "summary": {
+        "mm": "တောရိုင်းတိရစ္ဆာန်၏ အစိတ်အပိုင်းပုံစံ တန်ဆာဆင်မှု။ …",
+        "en": "An ornamental side frame shaped like a wild animal's thigh. …",
+        "th": "งานประดับกรอบข้างรูปทรงกระดูกโคนกป่า..."
+      },
+      "detailed_info": {
+        "mm": "စိုင် (တောနွား) ၏ ပေါင်ရိုးပုံသဏ္ဌာန် ကွေးဝှိုက်၍ လှပစွာ တန်ဆာဆင်ထားသော ပလ္လင်၏ ဘေးဘောင် အစိတ်အပိုင်း ဖြစ်ပါသည်။ သဘာဝ တောရိုင်းတိရစ္ဆာန်၏ အစိတ်အပိုင်း ပုံသဏ္ဌာန်ဖြင့် ကြံ့ခိုင်သန်မာမှုကို အနုပညာမြောက်စွာ ပုံဖော်ထားခြင်း ဖြစ်ပါသည်။",
+        "en": "A beautifully curved side frame of the throne shaped like the thigh bone of a wild ox (hsaing). It artistically represents strength and durability through the form of a wild animal's anatomy.",
+        "th": "เป็นชิ้นส่วนกรอบด้านข้างของพระราชบัลลังก์ที่ดัดโค้งอย่างอ่อนช้อยเป็นรูปกระดูกโคนกของ 'ไซ' (วัวป่า) สื่อถึงความแข็งแกร่งและทรงพลัง โดยนำรูปทรงส่วนหนึ่งของสัตว์ป่าตามธรรมชาติมาถ่ายทอดเป็นศิลปะอย่างงดงาม"
+      }
+    },
+
+    {
+      "id": "Parts of the Royal Throne",
+      "category": "throne_component21",
+      "name": {
+        "mm": "21. နဝရတ် (၉) ပါး",
+        "en": "21. Navaratna (9 Precious Gems)",
+        "th": "21. นพรัตน์ 9 ประการ (Navaratna)"
+      },
+      "summary": {
+        "mm": "ပုလဲ၊ သန္တာ၊ နီလာ၊ စိန်၊ ကြောင်၊ ဂေါ်မုတ်၊ ဥဿဖယား၊ ပတ္တမြား၊ မြ စသည့် ဘေးအန္တရာယ်ပယ်စေသော ကျောက်မျက်ရတနာများ။ …",
+        "en": "Gems that ward off dangers, including pearl, coral, sapphire, diamond, cat's eye, zircon (hessonite), topaz, ruby, and emerald. …",
+        "th": "อัญมณีมงคล 9 ชนิด ได้แก่ มุกดาหาร, ปะการัง, ไพลิน, เพชร, ไพฑูรย์, โกเมน, บุษราคัม, ทับทิม และมรดก ซึ่งมีคุณในการขจัดภยันตราย..."
+      },
+      "detailed_info": {
+        "mm": "မင်းဧကရာဇ်နှင့် တိုင်းသူပြည်သားတို့၏ ဘေးအန္တရာယ် အပေါင်းကို ပယ်ဖျက် ငြိမ်းအေးစေရန် ရည်ရွယ်၍ ဆင်ယင်ထားခြင်း ဖြစ်ပါသည်။",
+        "en": "Set upon the throne with the intention of dispelling and calming all harms and perils facing the monarch and his subjects.",
+        "th": "นำมาประดับตกแต่งไว้บนพระราชบัลลังก์ โดยมีเป้าหมายเพื่อปัดเป่าขจัดภยันตรายและความทุกข์ร้อนทั้งปวงให้หมดไปจากพระมหากษัตริย์และเหล่าอาณาประชาราษฎร์"
+      }
+    }
+  ]
+}
