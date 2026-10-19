@@ -3,7 +3,8 @@ import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from sentence_transformers import SentenceTransformer, util
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 import chromadb
 
 app = FastAPI()
@@ -20,9 +21,6 @@ app.add_middleware(
 # ChromaDB Persistent Storage
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
 collection = chroma_client.get_or_create_collection(name="throne_chat_logs")
-
-print("Loading AI Model...")
-model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
 
 # Knowledge Base ဖိုင်ကို ဖတ်ယူခြင်း
 with open("throne_data.json", "r", encoding="utf-8") as f:
@@ -77,7 +75,7 @@ def chat_endpoint(req: ChatRequest):
             "type": "content"
         }
 
-    # 2. Semantic Search စစ်ဆေးခြင်း (Threshold = 0.60)
+    # 2. Semantic Search (TF-IDF Vectorizer + Cosine Similarity) စစ်ဆေးခြင်း
     all_texts = []
     for cat in kb_raw.get("throne_categories", []):
         if lang in cat.get("name", {}): 
@@ -85,13 +83,19 @@ def chat_endpoint(req: ChatRequest):
 
     if all_texts:
         texts_only = [item["text"] for item in all_texts]
-        embeddings = model.encode(texts_only, convert_to_tensor=True)
-        user_embedding = model.encode(user_query, convert_to_tensor=True)
-        cos_scores = util.cos_sim(user_embedding, embeddings)[0]
-        best_score = float(cos_scores.max())
+        all_corpus = texts_only + [user_query]
         
-        if best_score > 0.60:
-            best_idx = int(cos_scores.argmax())
+        # TF-IDF Vectorizer အသုံးပြု၍ similarity တွက်ချက်ခြင်း
+        vectorizer = TfidfVectorizer()
+        tfidf_matrix = vectorizer.fit_transform(all_corpus)
+        
+        # User query ရဲ့ vector နဲ့ အခြား text တွေရဲ့ vector များကို နှိုင်းယှဉ်ခြင်း
+        cosine_scores = cosine_similarity(tfidf_matrix[-1], tfidf_matrix[:-1])[0]
+        best_score = float(cosine_scores.max()) if len(cosine_scores) > 0 else 0.0
+        
+        # Threshold = 0.20 (TF-IDF အတွက် 0.2 ကျော်လျှင် ကိုက်ညီသည်ဟု သတ်မှတ်ပါသည်)
+        if best_score > 0.20:
+            best_idx = int(cosine_scores.argmax())
             matched_item = all_texts[best_idx]["cat"]
             summary = matched_item.get("summary", {}).get(lang, "")
             detailed = matched_item.get("detailed_info", {}).get(lang, "")
